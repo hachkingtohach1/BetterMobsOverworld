@@ -42,7 +42,7 @@ class Attributes {
 	}
 
 	public function getMortalEnemy(string $name) : string {
-		$enemies = array("Skeleton" => "Wolf", "Wolf" => "Skeleton", "Zombie" => "Villager");
+		$enemies = array("Skeleton" => "Wolf", "Wolf" => "Skeleton", "Zombie" => "Villager", "Fox" => "Chicken");
 		foreach ($enemies as $source => $target) {
 			if ($source === $name) {
 				return $target;
