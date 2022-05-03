@@ -15,32 +15,40 @@ easy to use, you must go on config and choose the world you wont mobs  do not sp
 - EndMobs: https://www.youtube.com/watch?v=ZjUaa9fuRBo
 
 - List Mobs: Overworld https://github.com/xodamcm/BetterMobsOverworld
--  - Pig
--   - Chicken 
--   - Cow 
--   - Rabbit
--    - Sheep 
--    - Fox 
--    - Goat 
 -    - Bat
--    - Parrot 
--    - Cat 
--    - Bee 
--    - Wolf 
--    - Cod 
--    - Salmon 
--    - Dolphin 
--    - Pufferfish 
--    - Axolotl 
--    - Guardian 
--    - Elderguardian 
--    - Zombie 
--    - ZombieVillager 
--    - Creeper 
--    - Skeleton 
+-    - Horse
+-    - Llama
+-    - Ocelot
+-    - Parrot
+-    - Phantom
+-    - Pig
+-    - Cat
+-    - Chicken
+-    - Creeper
+-    - Donkey
+-    - Enderman
+-    - PolarBear
+-   - PufferFish
+-   - Rabbit
+-   - ZombieVillager
+-   - Zombie
+-   - Skeleton
+-   - Witch
+-   - Wolf
+-    - Spider
+-    - Sheep
+-    - Salmon
+-    - Squid
+-    - Cow
+-    - Witch
+-    - Slime
+-    - Fox
+-    - Bee
 -    - Evoker 
--    - Vindicator 
--    
+-    - Vindicator
+-    - Goat
+-    - Axolotl
+    
 -   List NetherMobs: https://github.com/xodamcm/BetterMobsNether
 -    - ZombiePigman 
 -    - Piglin 
