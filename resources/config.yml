@@ -1,0 +1,57 @@
+---
+# true / false
+spawnmobs: true
+# show spawn/despawn messages to the console
+spawnmsgs: false
+# show name tags and health percent if percent is less than 100
+# damagetags: false
+# regain this much health over time when idle
+# setting to 0 disables
+regainhealth: 1
+# mobs will not spawn in any worldname containing one of these strings
+nospawn:
+- nether
+- nether2
+- nether3
+# quantity of mobs to spawn of each type (higher numbers will use a lot more system resources)
+# 3 mobs spawn by default per type, add a mob below to change the spawn quantity, use 0 for none
+# available mobs are:
+# Bat Blaze Cat CaveSpider Chicken Cod Cow Creeper Dolphin Donkey ElderGuardian Enderman Ghast
+# Guardian Horse Husk IronGolem Llama MagmaCube Mooshroom Ocelot Parrot Phantom Pig PolarBear
+# PufferFish Rabbit Salmon Sheep Silverfish Skeleton SkeletonHorse Slime Spider Squid Stray
+# TropicalFish Villager Witch Wolf Zombie ZombieVillager
+Bat: 3
+Horse: 2
+Llama: 1
+Ocelot: 1
+Parrot: 2
+Phantom: 2
+Pig: 4
+Cat: 1
+Chicken: 4
+Creeper: 3
+Donkey: 2
+Enderman: 1
+PolarBear: 1
+PufferFish: 1
+Rabbit: 4
+ZombieVillager: 2
+Zombie: 4
+Skeleton: 4
+Witch: 1
+Wolf: 1
+Spider: 3
+Sheep: 4
+Salmon: 3
+Slime: 4
+Squid: 3
+Cow: 4
+Witch: 1
+Slime: 1
+Fox: 1
+Bee: 1
+Evoker: 1
+Vindicator: 1
+Goat: 1
+Axolotl: 1
+...
