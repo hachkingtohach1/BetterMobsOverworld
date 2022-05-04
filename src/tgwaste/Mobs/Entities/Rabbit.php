@@ -30,7 +30,7 @@ class Rabbit extends MobsEntity {
         parent::initEntity($nbt);
     }
 
-    /**public function getDrops(): array{
+    public function getDrops(): array{
         $lootingL = 1;
         $cause = $this->lastDamageCause;
         if($cause instanceof EntityDamageByEntityEvent){
@@ -51,7 +51,7 @@ class Rabbit extends MobsEntity {
         }
 
         return $drops;
-    }*/
+    }
 
     public function getXpDropAmount(): int
     {
