@@ -13,7 +13,7 @@ use tgwaste\Mobs\Entities\Bat;
 use tgwaste\Mobs\Entities\Vindicator;
 use tgwaste\Mobs\Entities\Evoker;
 use tgwaste\Mobs\Entities\Axolotl;
-//use tgwaste\Mobs\Entities\Blaze;
+use tgwaste\Mobs\Entities\Blaze;
 use tgwaste\Mobs\Entities\Bee;
 use tgwaste\Mobs\Entities\Fox;
 use tgwaste\Mobs\Entities\Cat;
@@ -26,14 +26,14 @@ use tgwaste\Mobs\Entities\Dolphin;
 use tgwaste\Mobs\Entities\Donkey;
 use tgwaste\Mobs\Entities\ElderGuardian;
 use tgwaste\Mobs\Entities\Enderman;
-//use tgwaste\Mobs\Entities\Ghast;
+use tgwaste\Mobs\Entities\Ghast;
 use tgwaste\Mobs\Entities\Guardian;
 use tgwaste\Mobs\Entities\Horse;
 use tgwaste\Mobs\Entities\Husk;
 use tgwaste\Mobs\Entities\Goat;
 use tgwaste\Mobs\Entities\IronGolem;
 use tgwaste\Mobs\Entities\Llama;
-//use tgwaste\Mobs\Entities\MagmaCube;
+use tgwaste\Mobs\Entities\MagmaCube;
 use tgwaste\Mobs\Entities\MobsEntity;
 use tgwaste\Mobs\Entities\Mooshroom;
 use tgwaste\Mobs\Entities\Ocelot;
@@ -77,7 +77,7 @@ class Registrations {
 			"Bat" => Bat::class,
 			"Axolotl" => Axolotl::class,
 			"Bee" => Bee::class,
-			//"Blaze" => Blaze::class,
+			"Blaze" => Blaze::class,
 			"Cat" => Cat::class,
 			"Goat" => Goat::class,
 			"CaveSpider" => CaveSpider::class,
@@ -92,13 +92,13 @@ class Registrations {
 			"Fox" => Fox::class,
 			"ElderGuardian" => ElderGuardian::class,
 			"Enderman" => Enderman::class,
-			//"Ghast" => Ghast::class,
+			"Ghast" => Ghast::class,
 			"Guardian" => Guardian::class,
 			"Horse" => Horse::class,
 			"Husk" => Husk::class,
 			"IronGolem" => IronGolem::class,
 			"Llama" => Llama::class,
-			//"MagmaCube" => MagmaCube::class,
+			"MagmaCube" => MagmaCube::class,
 			"Mooshroom" => Mooshroom::class,
 			"Ocelot" => Ocelot::class,
 			"Parrot" => Parrot::class,
