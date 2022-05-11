@@ -28,13 +28,15 @@ easy to use, you must go on config and choose the world you wont mobs  do not sp
 -    - Donkey
 -    - Enderman
 -    - PolarBear
--   - PufferFish
--   - Rabbit
--   - ZombieVillager
--   - Zombie
--   - Skeleton
--   - Witch
--   - Wolf
+-    - PufferFish
+-    - ElderGuardian
+-    - Guardian
+-    - Rabbit
+-    - ZombieVillager
+-    - Zombie
+-    - Skeleton
+-    - Witch
+-    - Wolf
 -    - Spider
 -    - Sheep
 -    - Salmon
@@ -48,6 +50,7 @@ easy to use, you must go on config and choose the world you wont mobs  do not sp
 -    - Vindicator
 -    - Goat
 -    - Axolotl
+...more
     
 -   List NetherMobs: https://github.com/xodamcm/BetterMobsNether
 -    - ZombiePigman 
